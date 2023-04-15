@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OcbClient", "OcbClient.csproj", "{D01FC90A-F948-48B0-980A-0049546F8036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{B6A2174E-B5A1-4776-BF68-8D0E69EB6A9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01FC90A-F948-48B0-980A-0049546F8036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01FC90A-F948-48B0-980A-0049546F8036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01FC90A-F948-48B0-980A-0049546F8036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01FC90A-F948-48B0-980A-0049546F8036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A2174E-B5A1-4776-BF68-8D0E69EB6A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A2174E-B5A1-4776-BF68-8D0E69EB6A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A2174E-B5A1-4776-BF68-8D0E69EB6A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A2174E-B5A1-4776-BF68-8D0E69EB6A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6DF0DA9-8434-4F06-8A72-554F94A629A6}
+	EndGlobalSection
+EndGlobal
